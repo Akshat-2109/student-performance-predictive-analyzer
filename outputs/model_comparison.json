@@ -1,0 +1,29 @@
+{
+  "best_model": "Gradient Boosting",
+  "results": [
+    {
+      "model": "Linear Regression",
+      "MAE": 3.056,
+      "RMSE": 3.529,
+      "R2": 0.9163
+    },
+    {
+      "model": "Gradient Boosting",
+      "MAE": 3.201,
+      "RMSE": 3.743,
+      "R2": 0.9058
+    },
+    {
+      "model": "Random Forest",
+      "MAE": 3.345,
+      "RMSE": 3.979,
+      "R2": 0.8935
+    },
+    {
+      "model": "Decision Tree",
+      "MAE": 4.752,
+      "RMSE": 5.941,
+      "R2": 0.7627
+    }
+  ]
+}
